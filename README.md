@@ -16,7 +16,3 @@ Currently building production-grade Spring Boot APIs and exploring fintech syste
 - 💬  Open to junior backend roles / internships / industrial attachments
 
 ---
-
-<!-- GitHub stats card — auto-generated -->
-![Stats](https://github-readme-stats.vercel.app/api?username=margaretkiroko&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margaretkiroko&layout=compact&hide_border=true&langs_count=6)
